@@ -1,0 +1,5 @@
+name: supabase_client_pkg
+version: 0.1.0
+publish_to: none
+environment: { sdk: ">=3.3.0 <4.0.0" }
+dependencies: { supabase_flutter: ^2.5.6 }
